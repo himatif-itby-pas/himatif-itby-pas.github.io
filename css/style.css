@@ -1,0 +1,18 @@
+.home hr{
+    width: 25%;
+    border-top: 4px solid rgb(14, 13, 13);
+}
+
+.carousel-item {
+    height: 120vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+#kegiatan img{
+    size: 50%;
+}
